@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "6985bcafa003510e5feff201",
+    "courseName": "ML Bootcamp",
+    "instructor": "6985b963a003510e5feff1f8"
+  },
+  {
+    "_id": "69a2df3e9bb1eab4a97583ac",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2e0869bb1eab4a97583ba",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2eab99bb1eab4a97583cc",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2ee7ab08ff17b7d9ed4ec",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2ef20b08ff17b7d9ed50a",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Published"
+  },
+  {
+    "_id": "69a2f10c9c5653873f7d5642",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2f18a9c5653873f7d5650",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Draft"
+  },
+  {
+    "_id": "69a2f4799c5653873f7d5662",
+    "courseName": "gvdfe",
+    "instructor": "69a2cbeb50ca945a75179f1c",
+    "status": "Published"
+  }
+]
